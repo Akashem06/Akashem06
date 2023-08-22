@@ -1,10 +1,10 @@
-## Hi there 👋
-### My name is Aryan
+### Hi there 👋
+## My name is Aryan
 
-🏫 Prusuing Electrical Engineering at the University of Waterloo! UW'28
-💻 I code mostly with JavaScript, Python, and Java
-😄 Pronouns: He/Him
-⚡ Fun fact: I love painting, realistic sketching, and sculpting
+🏫 Prusuing Electrical Engineering at the University of Waterloo! UW'28<br>
+💻 I code mostly with JavaScript, Python, and Java<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: I love photography painting, realistic sketching, and sculpting<br>
 
 <!--
 **Akashem06/Akashem06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
