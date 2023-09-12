@@ -2,7 +2,7 @@
 ## My name is Aryan
 
 🏫 Prusuing Electrical Engineering at the University of Waterloo! UW'28<br>
-💻 I code mostly with JavaScript, Python, and Java<br>
+💻 I code mostly with JavaScript, Python, and Java. Recently I started learning c++!<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I love photography painting, realistic sketching, and sculpting<br>
 
