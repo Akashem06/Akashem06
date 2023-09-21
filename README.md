@@ -1,5 +1,5 @@
-## Hi there 👋
-## My name is Aryan
+### Hi there 👋
+### My name is Aryan
 
 🏫 Prusuing Electrical Engineering at the University of Waterloo! UW'28<br>
 💻 I code mostly with JavaScript, Python, and Java. Recently I started learning C++!<br>
