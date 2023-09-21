@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ## My name is Aryan
 
 🏫 Prusuing Electrical Engineering at the University of Waterloo! UW'28<br>
