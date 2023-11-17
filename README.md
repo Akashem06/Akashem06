@@ -2,7 +2,7 @@
 
 
 🏫 Prusuing Electrical Engineering at the University of Waterloo! UW'28<br>
-💻 I code mostly with JavaScript, Python, and Java. Recently I started learning C++!<br>
+💻 I code mostly in C, C++, and Python. I'm currently making a project with Computer Vision!<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I love photography painting, realistic sketching, and sculpting<br>
 
