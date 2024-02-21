@@ -2,8 +2,8 @@
 
 
 🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>
-💻 I code mostly in C, C++, and Python. Firmware is life. Firmware is love. ❤️<be>
-😄 Pronouns: He/Him<be>
+💻 I code mostly in C, C++, and Python. Firmware is life. Firmware is love. ❤️<br>
+😄 Pronouns: He/Him<br>
 🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!<br>
 🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature<br>
 
