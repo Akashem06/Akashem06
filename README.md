@@ -1,10 +1,11 @@
 # Hi there 👋 <br> My name is Aryan
 
 
-🏫 Prusuing Electrical Engineering at the University of Waterloo! UW'28<br>
-💻 I code mostly in C, C++, and Python. I'm currently making a project with Computer Vision!<br>
-😄 Pronouns: He/Him<br>
-⚡ Fun fact: I love photography painting, realistic sketching, and sculpting<br>
+🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>
+💻 I code mostly in C, C++, and Python. Firmware is life. Firmware is love. ❤️<be>
+😄 Pronouns: He/Him<be>
+🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!<br>
+🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature<br>
 
 <!--
 **Akashem06/Akashem06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
