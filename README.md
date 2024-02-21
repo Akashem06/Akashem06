@@ -4,7 +4,7 @@
 🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>
 💻 I code mostly in C, C++, and Python. Firmware is life. Firmware is love. ❤️<br>
 😄 Pronouns: He/Him<br>
-🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller
+🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller<br>
 🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!<br>
 🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature<br>
 
