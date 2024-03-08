@@ -1,7 +1,7 @@
 # Hi there 👋 <br> My name is Aryan
 
 
-# Firmware is life. Firmware is love. ❤️<br>
+### Firmware is life. Firmware is love. ❤️<br>
 
 🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>
 💻 I code mostly in C, C++, and Python<br>
