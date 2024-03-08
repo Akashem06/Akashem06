@@ -1,9 +1,10 @@
 # Hi there 👋 <br> My name is Aryan
 
 
+# Firmware is life. Firmware is love. ❤️<br>
+
 🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>
-💻 I code mostly in C, C++, and Python. Firmware is life. Firmware is love. ❤️<br>
-😄 Pronouns: He/Him<br>
+💻 I code mostly in C, C++, and Python<br>
 🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller<br>
 🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!<br>
 🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature<br>
@@ -15,6 +16,23 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+</div>
+
+###
+
 <!--
 **Akashem06/Akashem06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
