@@ -15,8 +15,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashem06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
+#
+### Here are the main softwares I use:<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -42,7 +42,7 @@
 </div>
 
 ###
-#### Some other cool things I've worked with!<br>
+### Some other cool things I've worked with!<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
 </div>
 
-###
+#
 
 <!--
 **Akashem06/Akashem06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
