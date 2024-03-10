@@ -1,4 +1,4 @@
-# Hi 👋, I'm <br> Aryan Kashem
+# <span align="center">Hi 👋, I'm <br> Aryan Kashem</span>
 <h3 align="center">Firmware is life. Firmware is love. ❤️</h3>
 
 <p align="center">🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>💻 I code mostly in C, C++, and Python<br>🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller<br>🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!<br>🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature</p>
