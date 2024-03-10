@@ -1,5 +1,5 @@
-<h2 color="green">Hi 👋, I'm<br></h2>
-<h1 color="green">Aryan Kashem 🤖</h1>
+## <span style="color:rgb(155,255,0);">Hi 👋, I'm</span> # Aryan Kashem 🤖
+
 <h3 align="center">Firmware is life. Firmware is love. ❤️</h3>
 
 <p align="center">🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>💻 I code mostly in C, C++, and Python<br>🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller<br>🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!<br>🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature</p>
