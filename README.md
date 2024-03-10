@@ -10,9 +10,9 @@
 🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashem06&radius=16&theme=synthwave-84&area=true&order=5&custom_title=My%20Contributions!" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=akashem06&locale=en&mode=weekly&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashem06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashem06&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=My%20Contributions!" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=akashem06&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashem06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -42,9 +42,7 @@
 </div>
 
 ###
-
-# Some other cool things I've worked with:
-
+#### Some other cool things I've worked with!<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
