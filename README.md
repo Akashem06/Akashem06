@@ -10,9 +10,9 @@
 🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashem06&radius=16&theme=modern-lilac&area=true&order=5&custom_title=My%20Contributions!" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=akashem06&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashem06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashem06&radius=16&theme=synthwave-84&area=true&order=5&custom_title=My%20Contributions!" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=akashem06&locale=en&mode=weekly&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashem06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -29,6 +29,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+</div>
+
+###
+
+# Some other cool things I've worked with:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge" height="40" alt="vagrant logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" height="40" alt="ros logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
 </div>
 
 ###
