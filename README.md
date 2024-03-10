@@ -1,4 +1,4 @@
-## <span style="color:rgb(155,255,0);">Hi 👋, I'm</span> # Aryan Kashem 🤖
+## <span style="color:green;">Hi 👋, I'm</span> <br> <span style="font-size: larger;">Aryan Kashem 🤖</span>
 
 <h3 align="center">Firmware is life. Firmware is love. ❤️</h3>
 
