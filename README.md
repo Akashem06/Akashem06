@@ -3,11 +3,13 @@
 
 <h3 align="center">Firmware is life. Firmware is love. ❤️</h3>
 
-<p align="center>🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28</p>
-<p align="center>💻 I code mostly in C, C++, and Python</p>
-<p align="center>🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller</p>
-<p align="center>🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!</p>
-<p align="center>🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature</p>
+<div>
+  <p align="center">🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28</p>
+  <p align="center">💻 I code mostly in C, C++, and Python</p>
+  <p align="center">🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller</p>
+  <p align="center">🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!</p>
+  <p align="center">🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashem06&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=My%20Contributions!" height="300" alt="activity-graph graph"  />
@@ -16,7 +18,7 @@
 </div>
 
 #
-### Here are the main softwares I use:<br>
+<h3 align="center">Here are the main softwares I use:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
