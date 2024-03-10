@@ -1,4 +1,4 @@
-# Hi there 👋 <br> My name is Aryan
+<p align="center"># Hi there 👋 <br> My name is Aryan</p>
 
 
 ### Firmware is life. Firmware is love. ❤️<br>
