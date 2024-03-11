@@ -1,16 +1,16 @@
+#
 <h3 align="center">Firmware is life. Firmware is love. ❤️</h3>
 
 <p align="center">🏫 Pursuing Electrical Engineering at the University of Waterloo! UW'28<br>💻 I code mostly in C, C++, and Python<br>🤔 Currently I'm making a custom DFU library for bootloaders and a sensorless BLDC motor controller<br>🌱 I'm from Calgary, Alberta. A city nestled in the rocky mountains!<br>🖌️ I love photography, painting, realistic sketching, and sculpting. I primarily focus on human features and nature</p>
 
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashem06&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=My%20Contributions!" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=akashem06&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=akashem06&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashem06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 #
-<h3 align="center">Here are the main softwares I use:</h3>
+<h3 align="center">Here are the main software I use:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
