@@ -1,3 +1,4 @@
+![LinkedIn Banner](https://github.com/Akashem06/Akashem06/assets/130705280/3bfc0605-133b-4081-8e24-fe14ad2a4f4d)
 #
 <h3 align="center">Firmware is life. Firmware is love. ❤️</h3>
 
